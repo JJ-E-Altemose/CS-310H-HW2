@@ -12478,3 +12478,15 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2026.11.06-22.49.49:696][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
 [2026.11.06-22.49.49:705][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
 [2026.11.06-22.49.49:878][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2026.11.06-22.57.36:888][173]LogSlate: Window 'Message' being destroyed
+[2026.11.06-22.57.36:915][173]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/Floor.Floor
+(Selecting 'No' will cause all changes to be lost!)
+[2026.11.06-22.57.37:580][201]LogEditorViewport: Clicking Background
+[2026.11.06-22.57.38:561][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Menu" FILE="../../../../../../Users/jacob/OneDrive/Documents/Unreal Projects/HW2/Content/Levels/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.11.06-22.57.38:637][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2026.11.06-22.57.38:651][245]LogSavePackage: Moving output files for package: /Game/Levels/Menu
+[2026.11.06-22.57.38:652][245]LogSavePackage: Moving '../../../../../../Users/jacob/OneDrive/Documents/Unreal Projects/HW2/Saved/MenuE1251A164271DCB5BA535CAC83706C63.tmp' to '../../../../../../Users/jacob/OneDrive/Documents/Unreal Projects/HW2/Content/Levels/Menu.umap'
+[2026.11.06-22.57.38:704][245]AssetCheck: New page: Asset Save: Menu
+[2026.11.06-22.57.38:704][245]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
+[2026.11.06-22.57.40:600][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
